@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chirudeep001
 - 👀 I’m interested in learning python
-- 🌱 I’m currently learning python
+- 🌱 I’m currently Working with CARLA simulator for load and stress analysis
 - 💞️ I’m looking to collaborate on python developers and creators  
 - 📫 How to reach me .my  user name
 <!---
